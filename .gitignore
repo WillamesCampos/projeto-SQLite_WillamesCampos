@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+banco.db
+poetry.lock
+banco_sql_alchemy.db
